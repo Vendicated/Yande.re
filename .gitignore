@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+# temporarily ignore .eslintcache until fixed (https://github.com/eslint/eslint/issues/13897)
+.eslintcache
