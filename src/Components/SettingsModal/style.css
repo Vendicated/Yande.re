@@ -1,0 +1,13 @@
+.cog {
+	color: gray;
+	font-size: 40px;
+	position: absolute;
+	bottom: 15px;
+	left: 15px;
+}
+
+.cog:hover {
+	font-size: 44px;
+	bottom: 13px;
+	left: 13px;
+}
