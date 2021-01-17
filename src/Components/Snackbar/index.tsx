@@ -3,7 +3,7 @@ import { FontAwesomeIcon, FontAwesomeIconProps } from '@fortawesome/react-fontaw
 import { faExclamationCircle, faExclamationTriangle, faCheckCircle, faInfoCircle } from '@fortawesome/free-solid-svg-icons';
 
 import { SnackbarProps, SnackbarState } from './types';
-import './style.css';
+import './style.scss';
 
 export default class Snackbar extends Component<SnackbarProps, SnackbarState> {
 	private iconProps: FontAwesomeIconProps;

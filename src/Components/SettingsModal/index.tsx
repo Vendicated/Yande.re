@@ -8,7 +8,7 @@ import ButtonGroup from 'react-bootstrap/ButtonGroup';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCog } from '@fortawesome/free-solid-svg-icons';
 
-import './style.css';
+import './style.scss';
 import { SettingsModalState, SettingsFormProps, SettingsFormState } from './types';
 import { CenterView, Snackbar } from '..';
 
